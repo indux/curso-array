@@ -16,3 +16,8 @@ const reduce = totals.reduce((sum, element) => sum + element, 0);
 
 console.log("for", sum);
 console.log("reduce", reduce);
+
+const array = ['a', 'bb', 'ccc']; 
+const rta = array.map(item => item.length);
+
+console.log(rta)

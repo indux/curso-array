@@ -13,7 +13,7 @@ const orders = [
     customerName: "Santiago",
     total: 180,
     delivered: true,
-  },
+  }, 
   {
     customerName: "Valentina",
     total: 240,
